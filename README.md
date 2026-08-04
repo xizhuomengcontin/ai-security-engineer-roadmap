@@ -195,3 +195,6 @@ Only test systems you own or have explicit permission to assess. Keep experiment
 This roadmap is released under the [MIT License](LICENSE).
 
 *Last updated: August 2026.*
+
+
+_Last reviewed for link formatting and defensive scope on August 4, 2026._
