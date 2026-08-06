@@ -1,12 +1,20 @@
 # Contributing
 
-Found a broken link, outdated guidance, or a high-quality free resource? Please open an issue or pull request.
+Thanks for helping improve the AI Security Engineer Roadmap.
 
-Please keep contributions:
+## What is welcome
 
-- Free to access, or clearly marked when only public documentation is free
-- Defensive, ethical, and safe to practice
-- Practical and beginner-friendly
-- Linked to primary documentation where possible
+- Free courses, official documentation, open-source tools, and communities
+- Corrections to outdated links or inaccurate security guidance
+- Clear additions that help learners move from theory to practice
+- Defensive lab ideas with safe, authorized-use boundaries
 
-Do not include real secrets, private data, exploit instructions for live targets, or unsafe lab instructions.
+## Before opening a pull request
+
+1. Check that every new resource is free to access and relevant.
+2. Prefer official sources and stable documentation links.
+3. Do not add exploit instructions targeting real systems, credentials, or personal data.
+4. Explain why the change helps learners.
+5. Keep the Markdown readable and accessible.
+
+Please do not include secrets, private data, or unverified claims.
