@@ -286,3 +286,5 @@ AI security changes quickly. Links in this guide point to official documentation
 This roadmap is released under the MIT License. See [LICENSE](LICENSE).
 
 *Last updated: August 2026.*
+
+> Tip: Keep a small changelog of test cases and threat-model decisions as the project evolves.
