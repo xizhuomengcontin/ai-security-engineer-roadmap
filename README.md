@@ -227,6 +227,7 @@ Deploy your demo in a container with a CI pipeline that runs dependency scanning
 - [Cloud Security Alliance AI Controls Matrix](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix)
 - [OWASP SAMM](https://owaspsamm.org/)
 - [Incident Response Consortium resources](https://www.cisa.gov/topics/cyber-threats-and-advisories/incident-response)
+- [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive)
 
 ### Milestone
 Write an AI incident-response playbook with detection signals, containment steps, evidence collection, communication owners, recovery, and lessons learned.
